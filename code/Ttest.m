@@ -1,23 +1,7 @@
 clc;
 clear all;
 close all;
-% load('C:\Users\gzz\Desktop\vF1\I\A.mat');
-% C1=DA;
-% load('C:\Users\gzz\Desktop\vF1\I\I.mat');
-% C2=DI;
-% load('C:\Users\gzz\Desktop\vF1\I\U.mat');
-% C3=DU;
-% load('C:\Users\gzz\Desktop\vF1\I\O.mat');
-% C4=DO;
-% load('C:\Users\gzz\Desktop\vF1\I\A1.mat');
-% C5=DA1;
-% load('C:\Users\gzz\Desktop\vF1\I\I1.mat');
-% C6=DI1;
-% load('C:\Users\gzz\Desktop\vF1\I\U1.mat');
-% C7=DU1;
-% load('C:\Users\gzz\Desktop\vF1\I\O1.mat');
-% C8=DO1;
-% 
+
 load('E:\fnirs\class\tdata_crop\A.mat');
 C1=DA;
 load('E:\fnirs\class\tdata_crop\I.mat');
